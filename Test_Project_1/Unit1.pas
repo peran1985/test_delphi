@@ -31,6 +31,7 @@ begin
  B.Caption:='Test_2';
  B.Left:=random(1000);
  B.Top:=random(1000);
+ B.Width:=random(300)+200;
 end;
 
 end.
