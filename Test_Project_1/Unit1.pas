@@ -30,6 +30,7 @@ begin
  B:=Sender as TButton;
  B.Caption:='Test_2';
  B.Left:=random(1000);
+ B.Top:=random(1000);
 end;
 
 end.
