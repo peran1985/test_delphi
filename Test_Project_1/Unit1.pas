@@ -28,7 +28,7 @@ procedure TForm1.Button1Click(Sender: TObject);
 var B:TButton;
 begin
  B:=Sender as TButton;
- B.Caption:='Test';
+ B.Caption:='Test_2';
 end;
 
 end.
