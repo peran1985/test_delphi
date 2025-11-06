@@ -29,6 +29,7 @@ var B:TButton;
 begin
  B:=Sender as TButton;
  B.Caption:='Test_2';
+ B.Top:=1;
 end;
 
 end.
